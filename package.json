@@ -1,0 +1,23 @@
+{
+  "name": "fitnesstimer",
+  "version": "0.0.1",
+  "description": "A fitness timer for fitness instructors",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "fitness",
+    "react"
+  ],
+  "author": "Shad Holland",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
