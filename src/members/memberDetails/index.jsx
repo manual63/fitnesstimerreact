@@ -13,3 +13,5 @@ class MemberDetail extends React.Component {
         );
     }
 }
+
+export default MemberDetail;
