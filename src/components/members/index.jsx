@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-import MemberDetails from './memberDetails/index.jsx';
+import MemberDetails from '../memberDetails';
 
 class Members extends React.Component {
     constructor() {
